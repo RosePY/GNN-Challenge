@@ -1,4 +1,4 @@
-# GNN-Challenge
+# GNN-MiniChallenge
 🚧 Repository Under Construction 🚧
 
 This repository is currently being prepared to host a Graph Neural Networks (GNN) Challenge, including submission guidelines, evaluation protocols, and a public leaderboard.
